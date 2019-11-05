@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# assumes dotfiles ~/git/olivia-work/dotfiles 
+
+# Brewfile
+ln -sf ~/git/olivia-work/dotfiles/Brewfile ~/Brewfile
