@@ -4,3 +4,13 @@
 
 # Brewfile
 ln -sf ~/git/olivia-work/dotfiles/Brewfile ~/Brewfile
+
+# oh my zsh
+
+sh -c “$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)”
+
+ln -sf ~/git/olivia-work/dotfiles/zshrc ~/.zshrc
+
+
+
+
